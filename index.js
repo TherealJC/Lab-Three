@@ -1,5 +1,5 @@
 //Set Grade
-const grade = 75;
+const grade = 87;
 
 switch (true) {
     // If score is 85-100
@@ -48,24 +48,24 @@ switch (true) {
 }
 
 // John Smith 
-// 57
+// 57 C+
 // Addie Lilley
-// 73
+// 73 A-
 // Shaun Myers
-// 34
+// 34 E
 // Earline Wolters
-// 50
+// 50 C
 // Rico Gonser
-// 77
+// 77 A-
 // Freddie Eckhardt
-// 91
+// 91 A+
 // Willow Riva
-// 82
+// 82 A
 // Florentino Chavira
-// 68
+// 68 B
 // Chandra Walder
-// 56
+// 56 C+
 // Christia Cournoyer
-// 47
+// 47 D
 // Clayton Couey
-// 63
+// 63 B-
