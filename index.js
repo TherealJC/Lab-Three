@@ -110,3 +110,4 @@ switch (true) {
 
 }
 //this way is interesting because you can set the grade and the description separately
+const Age = 55
