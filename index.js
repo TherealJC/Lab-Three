@@ -23,7 +23,7 @@ switch (true) {
         console.log("B Pass with Merit");
         break;
     // If score is 60-64
-        case grade >= 60 && grade <= 64:
+    case grade >= 60 && grade <= 64:
             console.log("B- Pass with Merit");
             break;
     // If score is 55-59
@@ -109,3 +109,4 @@ switch (true) {
             console.log('Fail score is lower than 39');
 
 }
+//this way is interesting because you can set the grade and the description separately
